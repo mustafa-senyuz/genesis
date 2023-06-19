@@ -5,7 +5,7 @@ import java.util.List;
 
 import com.luv2code.crud.entity.Student;
 
-//			     Data Access Object (DAO)    <->   DATABASE     /// genel işlem tanimlari
+//			     Data Access Object (DAO)    <->   DATABASE     /// genel işlem tanimlari  belirtiliyor
 public interface StudentDAO {
 	
 	void save(Student st);

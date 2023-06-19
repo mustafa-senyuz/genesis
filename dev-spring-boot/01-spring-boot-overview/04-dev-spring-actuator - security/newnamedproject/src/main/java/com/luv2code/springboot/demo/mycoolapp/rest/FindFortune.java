@@ -8,6 +8,6 @@ public class FindFortune {
 	
 	@GetMapping("/getfortune")
 	public String getfortune() {
-		return "getting FORTUNE is very relief .... ";
+		return "getting FORTUNE is very relief hmmm.... ";
 	}
 }
